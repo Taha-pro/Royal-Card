@@ -1,0 +1,10 @@
+/* FONT IMPORT */
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&family=Lobster+Two:ital@1&display=swap');
+
+body{
+    font-family: 'Aclonica', sans-serif;
+    
+}
+/* card body */
+
+.card-body{text-align: center;}
