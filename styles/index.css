@@ -18,10 +18,16 @@
 
 .underline2{width: 100px; height: 2px; background-color: rgb(245, 9, 245);}
 
-.image{
-  /* margin-left: 60px; */
-  /* margin: auto; */
-  padding: 0 80px;
+/* .dimages{
+  margin-left: 60px;
+  margin: auto;
+  padding: 0 40px;
+  image-resolution: 1920*1080;
+  width: 100%;
+} */
+
+img{
+  width: 100%;
 }
 
 /*--------------------------------------------------------------
